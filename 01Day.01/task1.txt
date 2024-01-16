@@ -1,0 +1,4 @@
+customer requirement:-
+
+customer book there hotal or any number of rooms
+to specific dates and can choose room accroding to need and also customer can give rating or review to rooms and hotel and payment option can be online and offline
