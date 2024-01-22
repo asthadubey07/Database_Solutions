@@ -1,0 +1,3 @@
+
+
+I want employee Table which store employe name and attednace table which store daily attendnace check_in and checkout time
